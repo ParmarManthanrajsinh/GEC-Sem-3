@@ -1,8 +1,8 @@
-# VGEC — Semester 3 Study Material (Computer Engineering)
+# GEC — Semester 3 Study Material (Computer Engineering)
 
-A curated collection of study material, syllabi, and notes for **B.E. Semester 3 — Computer Engineering** at Vishwakarma Government Engineering College (VGEC), Ahmedabad.
+A curated collection of study material, syllabi, and notes for **B.E. Semester 3 — Computer Engineering** at Government Engineering College (GEC), Rajkot.
 
-All documents follow the **Gujarat Technological University (GTU)** curriculum, effective **2024-25**.
+All documents follow the **Gujarat Technological University (GTU)** curriculum, effective **2025-26**.
 
 ---
 
@@ -22,7 +22,7 @@ All documents follow the **Gujarat Technological University (GTU)** curriculum, 
 ## 📁 Repository Structure
 
 ```
-VGEC-Sem-3/
+GEC-Sem-3/
 ├── README.md
 ├── Class Timetable 3H ODD-2026 WEF 30-07-2026.pdf
 ├── DBMS/  BE03000091.pdf
