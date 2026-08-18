@@ -1,0 +1,26 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# C build artifacts
+*.obj
+*.a
+*.so
+*.dylib
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
