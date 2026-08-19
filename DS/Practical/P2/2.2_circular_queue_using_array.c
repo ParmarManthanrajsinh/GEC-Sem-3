@@ -54,11 +54,9 @@ void display()
 	}
 	printf("Circular Queue elements: ");
 	int i = front;
-	while (1)
+	while (i != rear)
 	{
 		printf("%d ", cqueue[i]);
-		if (i == rear)
-			break;
 		i = (i + 1) % MAX;
 	}
 	printf("\n");
