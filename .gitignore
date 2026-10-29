@@ -9,6 +9,12 @@
 *.so
 *.dylib
 
+# CMake build directory
+build/
+
+# Python cache
+__pycache__/
+
 # OS files
 .DS_Store
 Thumbs.db
